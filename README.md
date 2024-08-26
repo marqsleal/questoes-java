@@ -1183,9 +1183,7 @@ Será possível visualizar algo próximo disso na saída do terminal:
 
 A fórmula pode ser expressa como:
 
-$$
-\text{CAFEBABE}_{16} = 3405691582_{10}
-$$
+CAFEBABE<sub>16</sub> = 3405691582<sub>10</sub>
 
 
 James Gosling, um dos principais nomes por trás da concepção da linguagem Java, explica o porquê:
